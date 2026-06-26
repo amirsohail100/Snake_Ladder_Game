@@ -62,6 +62,6 @@ Follow these basic guidelines to pull and launch the development workspace insta
 ### 1. Clone the Target Terminal Endpoint
 
 ```bash
-git clone [https://github.com/amirsohail100/your-snake-ladder-repo.git](https://github.com/amirsohail100/your-snake-ladder-repo.git)
-cd your-snake-ladder-repo
+git clone [https://github.com/amirsohail100/Memory_Matrix_Game.git](https://github.com/amirsohail100/Memory_Matrix_Game.git)
+cd Memory_Matrix_Game
 ```
